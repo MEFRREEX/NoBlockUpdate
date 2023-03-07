@@ -1,5 +1,5 @@
 name: ${project.name}
-main: LevelEvents.Main
+main: noupdate.Main
 version: "${project.version}"
 api: ["1.0.0"]
 author: The Oni
